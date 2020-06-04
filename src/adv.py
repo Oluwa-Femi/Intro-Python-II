@@ -82,4 +82,4 @@ while True:
         break 
     else:
         print("Press N, S, E, W to move, press Q to quit the game:")
-        #Invalid input by player
+        #Invalid input by playersssssssssssssss
